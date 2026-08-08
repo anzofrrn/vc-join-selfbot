@@ -59,7 +59,7 @@ Note: I suggest make an gc (with account which is used here) > send image > copy
 
 ## Author
 
-Username:loveinruin
+Username: loveinruin
 
 [![Support Server](https://img.shields.io/discord/1070267471958614057?color=7289da&label=Support%20Server&logo=discord)](https://discord.gg/codez)
 
