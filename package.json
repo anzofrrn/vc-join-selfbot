@@ -1,0 +1,16 @@
+{
+  "name": "vc-selfbot",
+  "version": "1.0.0",
+  "description": "Discord selfbot — VC holder + RPC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.3.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
